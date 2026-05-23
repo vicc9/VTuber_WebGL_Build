@@ -1,0 +1,9 @@
+# Unity WebGL Build - 只保留必要的執行檔案
+
+# 不需要追蹤的系統檔案
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Git 自身
+*.orig
